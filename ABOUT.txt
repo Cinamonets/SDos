@@ -1,0 +1,20 @@
+This Operating System INFO.
+
+Based on: MikeOS
+MikeOS Version: 4.3
+
+==========================
+
+This system i created it quick but this will work on real computer
+
+==========================
+
+REQUIREMENTS
+
+NASM: Netwide Assembler
+
+QEMU: Testing
+
+=========================
+
+Cinamonets AND SD.
