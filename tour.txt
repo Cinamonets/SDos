@@ -1,0 +1,83 @@
+Guide - Tour Around System.
+
+===========================
+
+CHAPTERS:
+
+1. Basics
+
+2. Programs
+
+3. Functions
+
+===========================
+
+Basics.
+
+1.0 | Starting.
+
+When you open OS you will see a message.
+Click OK by click arrows, and ENTER to confirm.
+You  will see a beatiful desktop.
+Next select app when click arrows and ENTER.
+Clicking ESC will end app, when you click esc on desktop
+you can go back to select mode, and select mode. (CANCEL - Terminal OK - Desktop)
+When you select an app it will POP-UP or you will left with it in background, if this happen
+you must select a file to open. ESC to exit.
+When you close app text will show click ENTER to continue.
+
+1.1 | Apps.
+
+You can open only apps with *.bas or .bin and .asm* extension.
+You cannot run apps with other ends, until you use app like a Notepad.
+Apps on desktop are in *programs* Catalog.
+You can add script apps via Text Editor.
+
+1.2 | File Managment.
+
+Open up app named fileman.asm.
+After opening app a simple menu will show and you can delete Files via Fileman.
+Delete File to delete and other.
+
+1.3 | Viever.
+
+Open app viever.asm.
+After it select app you want to look TEST:(sample.pcx).
+After selecting file with *.pcx* extension a image will show.
+You can open also a TXT files and others!
+
+1.4 | Calculator.
+
+Open app calc.bas.
+You will see a simple menu where you can calculate!
+Explore some calculator.
+
+==========================
+
+Programs.
+
+1.0 | List of programs.
+
+After loading OS you will see this list of programs.
+
+- advnture.bas 1
+- calc.bas 2
+- draw.bas 3
+- edit.asm 4
+- example.bas 5
+- fileman.asm 6
+- hangman.asm 7
+- keyboard.asm 8
+- mbpp.bas 9
+- memedit.bas 10
+- mikedev.inc 11
+- monitor.asm 12
+- muncher.bas 13
+- sample.pcx 14
+- serial.asm 15
+- viever.asm 16
+
+16 Programs, great!
+== SOME CONFIGURATION FILES ==
+
+==== COMING SOON ====
